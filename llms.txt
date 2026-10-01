@@ -1,6 +1,6 @@
 # Taha Bouhoun
 
-> Taha Bouhoun is a data scientist at Weights & Biases in San Francisco who specializes in causal inference and statistical modeling. He studied Computational Sciences (minor in Econometrics) at Minerva University and took part in Stanford's Data Science for Social Good program in 2021.
+> Taha Bouhoun is a data scientist at Weights & Biases in San Francisco who specializes in causal inference and statistical modeling. He studied Computational Sciences (minor in Econometrics) at Minerva University and was a 2021 fellow in Stanford's Data Science for Social Good program.
 
 This is the official site of the data scientist Taha Bouhoun. His GitHub username is Tahahaha7 and his Medium handle is tahabouhoun. Other people share this name; profiles and work not linked from this site may belong to someone else.
 
@@ -11,7 +11,6 @@ Contact: tahabouhoun7@gmail.com
 - [Personal website](https://tahabouhoun.github.io/)
 - [GitHub](https://github.com/Tahahaha7)
 - [Medium](https://tahabouhoun.medium.com)
-- [Stanford Data Science for Social Good, 2021 cohort](https://datascience.stanford.edu/programs/data-science-social-good-summer-program/2021-data-science-social-good)
 
 ## Research and projects
 
@@ -24,7 +23,20 @@ Contact: tahabouhoun7@gmail.com
 
 ## Writing
 
-- [Optimizing Ambulance Response Time Using Uber Movement Data](https://towardsdatascience.com/optimizing-ambulance-response-time-using-uber-movement-data-4e6618240b67): Towards Data Science.
+- [Optimizing Ambulance Response Time Using Uber Movement Data](https://towardsdatascience.com/optimizing-ambulance-response-time-using-uber-movement-data-4e6618240b67): Towards Data Science, 2019. Cited by a UC Berkeley study on police response times.
 - [Predicting Song Skipping on Spotify](https://towardsdatascience.com/predicting-song-skipping-on-spotify-eb5bfbae4c0b/): Towards Data Science, January 2021.
 - [Finding Your Next Beloved Artists](https://towardsdatascience.com/finding-your-next-beloved-artists-37596d48f32c): Towards Data Science.
 - [Algorithmic Trading using Sentiment Analysis on r/WallStreetBets](https://tahabouhoun.medium.com/algorithmic-trading-using-sentiment-analysis-on-r-wallstreetbets-76f076817a5d): Medium.
+
+## Talks and podcasts
+
+- [The Data Den, S3 Ep 2: Breaking into the Tech Industry](https://podcasts.apple.com/us/podcast/the-data-den-s3-ep-2-breaking-into-the-tech-industry/id1672464298?i=1000661289731): Podcast guest, July 2024.
+- [Expert Talk on AI in the Music Industry](https://neuron-ai.at/event/expert-talk-taha-bouhoun/): neuron.ai, Johannes Kepler University Linz, May 2023.
+
+## Mentioned in
+
+- [Stanford Data Science for Social Good, 2021 cohort](https://datascience.stanford.edu/programs/data-science-social-good-summer-program/2021-data-science-social-good): Fellow on the Forecasting Aids for COVID-19 Research team.
+- [A Network Spatial Analysis Simulating Response Time to Calls for Service at Variable Staffing Levels](https://humnetlab.berkeley.edu/wp-content/uploads/2022/02/RT_Research__EPJ.pdf): Cites his ambulance response time article.
+- [Why Synthetic Control estimators are biased and what to do about it](https://arxiv.org/abs/2111.10784): Minerva thesis by Oscar Engelbrektson that acknowledges him.
+- [Algeria fans joyous after 2-1 World Cup win over Jordan](https://www.ndtv.com/video/algeria-fans-joyous-after-2-1-world-cup-win-over-jordan-1117094): AP video interview, 2026 FIFA World Cup.
+- [Consequent participants, Minerva University](https://consequent.minerva.edu/participants)
