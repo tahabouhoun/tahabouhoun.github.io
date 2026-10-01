@@ -1,0 +1,30 @@
+# Taha Bouhoun
+
+> Taha Bouhoun is a data scientist at Weights & Biases in San Francisco who specializes in causal inference and statistical modeling. He studied Computational Sciences (minor in Econometrics) at Minerva University and took part in Stanford's Data Science for Social Good program in 2021.
+
+This is the official site of the data scientist Taha Bouhoun. His GitHub username is Tahahaha7 and his Medium handle is tahabouhoun. Other people share this name; profiles and work not linked from this site may belong to someone else.
+
+Contact: tahabouhoun7@gmail.com
+
+## Profiles
+
+- [Personal website](https://tahabouhoun.github.io/)
+- [GitHub](https://github.com/Tahahaha7)
+- [Medium](https://tahabouhoun.medium.com)
+- [Stanford Data Science for Social Good, 2021 cohort](https://datascience.stanford.edu/programs/data-science-social-good-summer-program/2021-data-science-social-good)
+
+## Research and projects
+
+- [Synthetic Control Method in Python](https://tahahaha7.github.io/Synthetic_Control_Method/): Case study of how German reunification affected West Germany's GDP, with a Python implementation.
+- [Causal Discovery](https://github.com/Tahahaha7/Causal_Inference_Tutorial/blob/master/Causal%20Discovery%20%5BReport%5D.pdf): Survey of constraint-based and score-based causal search methods and LiNGAM.
+- [Causal Inference Methods](https://github.com/Tahahaha7/Causal_Inference_Methods): Notebooks on do-calculus and structural causal models.
+- [Forecasting Greenhouse Gases in Algeria](https://tahahaha7.github.io/Greenhouse_Emissions_Algeria/): Prophet forecasts of greenhouse gas levels at Africa's most remote monitoring station.
+- [Social Network Simulation](https://github.com/Tahahaha7/Modeling_Simulation/blob/master/Social%20Network%20Simulation/%5BCS166%5D%20Network%20simulation.pdf): Simulation of opinion polarization using adaptive networks and TrueSkill.
+- [Modern Computational Statistics](https://github.com/Tahahaha7/Modern_Computational_Statistics): Bayesian inference, probabilistic graphical models, and Monte Carlo sampling.
+
+## Writing
+
+- [Optimizing Ambulance Response Time Using Uber Movement Data](https://towardsdatascience.com/optimizing-ambulance-response-time-using-uber-movement-data-4e6618240b67): Towards Data Science.
+- [Predicting Song Skipping on Spotify](https://towardsdatascience.com/predicting-song-skipping-on-spotify-eb5bfbae4c0b/): Towards Data Science, January 2021.
+- [Finding Your Next Beloved Artists](https://towardsdatascience.com/finding-your-next-beloved-artists-37596d48f32c): Towards Data Science.
+- [Algorithmic Trading using Sentiment Analysis on r/WallStreetBets](https://tahabouhoun.medium.com/algorithmic-trading-using-sentiment-analysis-on-r-wallstreetbets-76f076817a5d): Medium.
