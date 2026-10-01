@@ -1,6 +1,6 @@
 # Taha Bouhoun
 
-> Taha Bouhoun is a data scientist at Weights & Biases in San Francisco who specializes in causal inference and statistical modeling. He studied Computational Sciences (minor in Econometrics) at Minerva University and was a 2021 fellow in Stanford's Data Science for Social Good program.
+> Taha Bouhoun is a senior data scientist at CoreWeave (Nasdaq: CRWV) in San Francisco who specializes in causal inference and statistical modeling. He joined Weights & Biases as a data scientist straight out of undergrad in 2021 and became part of CoreWeave when it acquired Weights & Biases in May 2025. He studied Computational Sciences (minor in Econometrics) at Minerva University and was a 2021 fellow in Stanford's Data Science for Social Good program.
 
 This is the official site of the data scientist Taha Bouhoun. His GitHub username is Tahahaha7 and his Medium handle is tahabouhoun. Other people share this name; profiles and work not linked from this site may belong to someone else.
 
@@ -12,21 +12,27 @@ Contact: tahabouhoun7@gmail.com
 - [GitHub](https://github.com/Tahahaha7)
 - [Medium](https://tahabouhoun.medium.com)
 
+## Experience
+
+- CoreWeave, Senior Data Scientist, 2025 to present
+- Weights & Biases, Data Scientist, 2021 to 2025 (acquired by CoreWeave in May 2025)
+- [Stanford Data Science for Social Good](https://datascience.stanford.edu/programs/data-science-social-good-summer-program/2021-data-science-social-good), Fellow, summer 2021: worked with Carnegie Mellon's Delphi Research Group on an interactive report comparing COVID-19 forecasters.
+
 ## Research and projects
 
-- [Synthetic Control Method in Python](https://tahahaha7.github.io/Synthetic_Control_Method/): Case study of how German reunification affected West Germany's GDP, with a Python implementation.
+- [Synthetic Control Method in Python](https://tahahaha7.github.io/Synthetic_Control_Method/): Estimates how German reunification in 1990 changed West Germany's economy by building a synthetic counterfactual.
 - [Causal Discovery](https://github.com/Tahahaha7/Causal_Inference_Tutorial/blob/master/Causal%20Discovery%20%5BReport%5D.pdf): Survey of constraint-based and score-based causal search methods and LiNGAM.
 - [Causal Inference Methods](https://github.com/Tahahaha7/Causal_Inference_Methods): Notebooks on do-calculus and structural causal models.
-- [Forecasting Greenhouse Gases in Algeria](https://tahahaha7.github.io/Greenhouse_Emissions_Algeria/): Prophet forecasts of greenhouse gas levels at Africa's most remote monitoring station.
-- [Social Network Simulation](https://github.com/Tahahaha7/Modeling_Simulation/blob/master/Social%20Network%20Simulation/%5BCS166%5D%20Network%20simulation.pdf): Simulation of opinion polarization using adaptive networks and TrueSkill.
+- [Social Network Simulation](https://github.com/Tahahaha7/Modeling_Simulation/blob/master/Social%20Network%20Simulation/%5BCS166%5D%20Network%20simulation.pdf): Simulation of opinion fragmentation and polarization using adaptive networks and TrueSkill.
+- [Forecasting Greenhouse Gases at the Most Remote Monitoring Station in Africa](https://tahahaha7.github.io/Greenhouse_Emissions_Algeria/): Prophet forecasts of greenhouse gas measurements from a station in the Algerian Sahara.
 - [Modern Computational Statistics](https://github.com/Tahahaha7/Modern_Computational_Statistics): Bayesian inference, probabilistic graphical models, and Monte Carlo sampling.
 
 ## Writing
 
-- [Optimizing Ambulance Response Time Using Uber Movement Data](https://towardsdatascience.com/optimizing-ambulance-response-time-using-uber-movement-data-4e6618240b67): Towards Data Science, 2019. Cited by a UC Berkeley study on police response times.
-- [Predicting Song Skipping on Spotify](https://towardsdatascience.com/predicting-song-skipping-on-spotify-eb5bfbae4c0b/): Towards Data Science, January 2021.
-- [Finding Your Next Beloved Artists](https://towardsdatascience.com/finding-your-next-beloved-artists-37596d48f32c): Towards Data Science.
-- [Algorithmic Trading using Sentiment Analysis on r/WallStreetBets](https://tahabouhoun.medium.com/algorithmic-trading-using-sentiment-analysis-on-r-wallstreetbets-76f076817a5d): Medium.
+- [Optimizing Ambulance Response Time Using Uber Movement Data](https://towardsdatascience.com/optimizing-ambulance-response-time-using-uber-movement-data-4e6618240b67): Towards Data Science, August 2020. Monte Carlo simulation on a network of London built from Uber Movement travel times. Cited by a UC Berkeley study on police response times.
+- [Predicting Song Skipping on Spotify](https://towardsdatascience.com/predicting-song-skipping-on-spotify-eb5bfbae4c0b/): Towards Data Science, January 2021. Gradient-boosted classifier with Bayesian optimization, trained on a year of personal listening history.
+- [Finding Your Next Beloved Artists](https://towardsdatascience.com/finding-your-next-beloved-artists-37596d48f32c): Towards Data Science, March 2021. Network analysis of Spotify artists.
+- [Algorithmic Trading using Sentiment Analysis on r/WallStreetBets](https://tahabouhoun.medium.com/algorithmic-trading-using-sentiment-analysis-on-r-wallstreetbets-76f076817a5d): Medium. Sentiment-driven trading signals from r/wallstreetbets after the GameStop short squeeze.
 
 ## Talks and podcasts
 
@@ -35,7 +41,6 @@ Contact: tahabouhoun7@gmail.com
 
 ## Mentioned in
 
-- [Stanford Data Science for Social Good, 2021 cohort](https://datascience.stanford.edu/programs/data-science-social-good-summer-program/2021-data-science-social-good): Fellow on the Forecasting Aids for COVID-19 Research team.
 - [A Network Spatial Analysis Simulating Response Time to Calls for Service at Variable Staffing Levels](https://humnetlab.berkeley.edu/wp-content/uploads/2022/02/RT_Research__EPJ.pdf): Cites his ambulance response time article.
 - [Why Synthetic Control estimators are biased and what to do about it](https://arxiv.org/abs/2111.10784): Minerva thesis by Oscar Engelbrektson that acknowledges him.
 - [Algeria fans joyous after 2-1 World Cup win over Jordan](https://www.ndtv.com/video/algeria-fans-joyous-after-2-1-world-cup-win-over-jordan-1117094): AP video interview, 2026 FIFA World Cup.
