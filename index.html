@@ -473,9 +473,6 @@
   .chip .p { color: var(--mist); }
   .tool-name { font-family: var(--display); font-size: 1.15rem; font-weight: var(--title-weight); line-height: 1.2; }
   .tool-use { margin-top: 0.25rem; font-size: 0.9rem; color: var(--slate); line-height: 1.4; }
-  .stack-legend { display: flex; flex-wrap: wrap; gap: 0.5rem 1.5rem; margin-top: 1.75rem; font-size: 0.9rem; color: var(--slate); }
-  .stack-legend span { display: inline-flex; align-items: center; gap: 0.45rem; }
-  .stack-legend i { width: 0.7rem; height: 0.7rem; border-radius: 3px; display: inline-block; }
 
   /* Work */
   .project-groups { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 3rem 4rem; }
@@ -673,55 +670,6 @@
     </div>
   </section>
 
-  <section id="stack" class="section wrap" aria-labelledby="stack-title">
-    <div class="section-head">
-      <h2 id="stack-title">Stack</h2>
-      <p class="section-intro">The tools I reach for, in order of how much the work depends on them.</p>
-    </div>
-    <ul class="stack">
-        <li class="tool">
-          <code class="chip" style="--c:#8A97A8"><span class="k">pip</span>&nbsp;install</code>
-          <h3 class="tool-name">Python</h3>
-          <p class="tool-use">Modeling and simulation</p>
-        </li>
-        <li class="tool">
-          <code class="chip" style="--c:#8A97A8"><span class="k">SELECT</span>&nbsp;<span class="p">*</span></code>
-          <h3 class="tool-name">SQL</h3>
-          <p class="tool-use">Analysis at scale</p>
-        </li>
-        <li class="tool">
-          <code class="chip" style="--c:#8A97A8">x&nbsp;<span class="k">&lt;-</span>&nbsp;c<span class="p">()</span></code>
-          <h3 class="tool-name">RStudio</h3>
-          <p class="tool-use">Statistics in R</p>
-        </li>
-        <li class="tool">
-          <code class="chip" style="--c:var(--ochre)"><span class="k">~</span>&nbsp;normal<span class="p">()</span></code>
-          <h3 class="tool-name">MC Stan</h3>
-          <p class="tool-use">Bayesian modeling</p>
-        </li>
-        <li class="tool">
-          <code class="chip" style="--c:var(--ochre)"><span class="p">.</span><span class="k">backward</span><span class="p">()</span></code>
-          <h3 class="tool-name">PyTorch</h3>
-          <p class="tool-use">Deep learning</p>
-        </li>
-        <li class="tool">
-          <code class="chip" style="--c:var(--slate)"><span class="p">&#123;&#123;</span>&nbsp;<span class="k">ref</span><span class="p">()</span>&nbsp;<span class="p">&#125;&#125;</span></code>
-          <h3 class="tool-name">dbt Labs</h3>
-          <p class="tool-use">Data transformation</p>
-        </li>
-        <li class="tool">
-          <code class="chip" style="--c:var(--slate)"><span class="k">@dg.asset</span></code>
-          <h3 class="tool-name">Dagster</h3>
-          <p class="tool-use">Pipeline orchestration</p>
-        </li>
-    </ul>
-    <p class="stack-legend">
-      <span><i style="background:#8A97A8"></i>Languages</span>
-      <span><i style="background:var(--ochre)"></i>Modeling</span>
-      <span><i style="background:var(--slate)"></i>Data platform</span>
-    </p>
-  </section>
-
   <section id="work" class="section wrap" aria-labelledby="work-title">
     <div class="section-head">
       <h2 id="work-title">Research and projects</h2>
@@ -877,6 +825,50 @@
           </p>
         </div>
       </li>
+    </ul>
+  </section>
+
+  <section id="stack" class="section wrap" aria-labelledby="stack-title">
+    <div class="section-head">
+      <h2 id="stack-title">Stack</h2>
+      <p class="section-intro">The tools I reach for, in order of how much the work depends on them.</p>
+    </div>
+    <ul class="stack">
+        <li class="tool">
+          <code class="chip" style="--c:#8A97A8"><span class="k">pip</span>&nbsp;install</code>
+          <h3 class="tool-name">Python</h3>
+          <p class="tool-use">Modeling and simulation</p>
+        </li>
+        <li class="tool">
+          <code class="chip" style="--c:#8A97A8"><span class="k">SELECT</span>&nbsp;<span class="p">*</span></code>
+          <h3 class="tool-name">SQL</h3>
+          <p class="tool-use">Analysis at scale</p>
+        </li>
+        <li class="tool">
+          <code class="chip" style="--c:#8A97A8">x&nbsp;<span class="k">&lt;-</span>&nbsp;c<span class="p">()</span></code>
+          <h3 class="tool-name">RStudio</h3>
+          <p class="tool-use">Statistics in R</p>
+        </li>
+        <li class="tool">
+          <code class="chip" style="--c:var(--ochre)"><span class="k">~</span>&nbsp;normal<span class="p">()</span></code>
+          <h3 class="tool-name">MC Stan</h3>
+          <p class="tool-use">Bayesian modeling</p>
+        </li>
+        <li class="tool">
+          <code class="chip" style="--c:var(--ochre)"><span class="p">.</span><span class="k">backward</span><span class="p">()</span></code>
+          <h3 class="tool-name">PyTorch</h3>
+          <p class="tool-use">Deep learning</p>
+        </li>
+        <li class="tool">
+          <code class="chip" style="--c:var(--slate)"><span class="p">&#123;&#123;</span>&nbsp;<span class="k">ref</span><span class="p">()</span>&nbsp;<span class="p">&#125;&#125;</span></code>
+          <h3 class="tool-name">dbt Labs</h3>
+          <p class="tool-use">Data transformation</p>
+        </li>
+        <li class="tool">
+          <code class="chip" style="--c:var(--slate)"><span class="k">@dg.asset</span></code>
+          <h3 class="tool-name">Dagster</h3>
+          <p class="tool-use">Pipeline orchestration</p>
+        </li>
     </ul>
   </section>
 </main>
