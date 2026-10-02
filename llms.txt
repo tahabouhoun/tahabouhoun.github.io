@@ -18,6 +18,10 @@ Contact: tahabouhoun7@gmail.com
 - Weights & Biases, Data Scientist, 2021 to 2025 (acquired by CoreWeave in May 2025)
 - [Stanford Data Science for Social Good](https://datascience.stanford.edu/programs/data-science-social-good-summer-program/2021-data-science-social-good), Fellow, summer 2021: worked with Carnegie Mellon's Delphi Research Group on an interactive report comparing COVID-19 forecasters.
 
+## Stack
+
+In order of importance to his work: Python, SQL, R (RStudio), Stan (MC Stan), PyTorch, dbt, and Dagster.
+
 ## Research and projects
 
 - [Synthetic Control Method in Python](https://tahahaha7.github.io/Synthetic_Control_Method/): Estimates how German reunification in 1990 changed West Germany's economy by building a synthetic counterfactual.
